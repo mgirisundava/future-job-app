@@ -23,5 +23,7 @@ This app is the final result of the "Flutter Developer: Provider State Managemen
 
 <h3>Preview</h3>
 
-![FUTURE JOb (1)](https://user-images.githubusercontent.com/79519141/134326744-0ad77090-e6e6-40c0-8847-da4669a8eed7.png)
+![FutureJob-GitHub](https://user-images.githubusercontent.com/79519141/134330042-896065e6-0fb8-42e6-a9e5-d6e5b5e7b585.png)
+
+
 
