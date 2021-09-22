@@ -1,16 +1,27 @@
 # bwa_future_job
 
-A new Flutter project.
+Future Job is an application for job seekers to find their jobs.
 
-## Getting Started
+This app is the final result of the "Flutter Developer: Provider State Management" class at www.buildwithangga.com.
 
-This project is a starting point for a Flutter application.
+<h3>Tools</h3>
 
-A few resources to get you started if this is your first Flutter project:
+<ul>
+<li>Visual Studio Code</li>
+<li>Flutter SDK</li>
+<li>Firebase</li>
+<li>Postman API</li>
+</ul>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<h3>Backend</h3>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<ul><li>Consume API</li></ul>
+
+<h3>State Management</h3>
+
+<ul><li>Provider</li></ul>
+
+<h3>Preview</h3>
+
+![FUTURE JOb (1)](https://user-images.githubusercontent.com/79519141/134326744-0ad77090-e6e6-40c0-8847-da4669a8eed7.png)
+
