@@ -9,7 +9,7 @@ This app is the final result of the "Flutter Developer: Provider State Managemen
 <ul>
 <li>Visual Studio Code</li>
 <li>Flutter SDK</li>
-<li>Firebase</li>
+<li>Figma</li>
 <li>Postman API</li>
 </ul>
 
