@@ -1,4 +1,4 @@
-# BWA - FUTURE JOB APP
+# FUTURE JOB APP
 
 Future Job is an application for job seekers to find their jobs.
 
