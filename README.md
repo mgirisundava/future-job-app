@@ -1,4 +1,4 @@
-# FUTURE JOB APP
+# Future Job App
 
 Future Job is an application for job seekers to find their jobs.
 
