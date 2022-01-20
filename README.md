@@ -13,10 +13,6 @@ This app is the final result of the "Flutter Developer: Provider State Managemen
 <li>Postman API</li>
 </ul>
 
-<h3>Backend</h3>
-
-<ul><li>Consume API</li></ul>
-
 <h3>State Management</h3>
 
 <ul><li>Provider</li></ul>
