@@ -1,4 +1,6 @@
-# bwa_future_job
+# Future Job App
+
+Link App : https://drive.google.com/file/d/1KrSG9GRhdpz4udnx0SW8vdyzCMr012jo/view?usp=sharing
 
 Future Job is an application for job seekers to find their jobs.
 
@@ -12,10 +14,6 @@ This app is the final result of the "Flutter Developer: Provider State Managemen
 <li>Figma</li>
 <li>Postman API</li>
 </ul>
-
-<h3>Backend</h3>
-
-<ul><li>Consume API</li></ul>
 
 <h3>State Management</h3>
 
